@@ -1,9 +1,12 @@
 h1{
 	background-color: rgba(75,10,150,0.3);
 }
-#button{
-	background-color: rgba(75,10,150,0.2);
-	width: 10%;
-	height: 150px;
-	color: rgba(50,0,0,0.1);
+
+
+div #button{    
+	background-color: rgba(255,0,0,0.3);
+    width: 10%;
+    height: 150px;
+    margin-left: 200px;
+    color: rgba(255,255,255,0.9);
 }
