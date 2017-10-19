@@ -1,6 +1,6 @@
 $( document ).ready(function() {
 	$("#button").click(function(){
-		alert("HOlO!!!")
+		$("#button").css("margin-left","-=10px")
 	})
     console.log( "ready!" );
 });
